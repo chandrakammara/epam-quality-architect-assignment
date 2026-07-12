@@ -188,6 +188,13 @@ Two documents make this process fully auditable for a reviewer:
 - **[`docs/AI_Workflow.md`](docs/AI_Workflow.md)** — the eleven-stage lifecycle (requirements → documentation ingestion → OpenAPI analysis → prompt engineering → code generation → live execution → failure analysis → trace analysis → human review → AI correction → final validation) and the guardrails observed throughout.
 - **[`docs/AI_Change_Log.md`](docs/AI_Change_Log.md)** — six concrete, evidence-driven corrections (login-failure diagnostics, category-locator ambiguity, stock-navigation URL bug, API auth handshake, DNS/Host-header routing, cross-functional timeout/navigation fixes), each documented as **Initial implementation → Evidence collected → Root cause → Final correction → Validation result**.
 
+## AI Engineering Documentation
+
+- AI_Workflow.md
+- AI_Change_Log.md
+- AI_Prompt_Catalog.md
+- AI_Validation_Strategy_and_Agent_Validation_Solution.md
+
 ---
 
 ## 7. Repository Highlights
